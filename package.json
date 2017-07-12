@@ -1,0 +1,23 @@
+{
+  "name": "elm-introduction-meetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server -p 80 ./local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamAlcaina/elm-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrahamAlcaina/elm-intro/issues"
+  },
+  "homepage": "https://github.com/AbrahamAlcaina/elm-intro#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
