@@ -2,7 +2,7 @@ Elm introduction
 ---
 Why Elm? 
 +++
-Describe state instant of transforming the DOM (aka FRP)
+Describe state instant of transforming the DOM
 +++
 Statically typed
 +++
@@ -14,8 +14,7 @@ Easy to test
 +++
 Interoperability with JS
 +++
-Easy FP 
-- Don't be scary by Monads
+Easy FP (Don't be scary by Monads)
 ---
 Installation
 ---
