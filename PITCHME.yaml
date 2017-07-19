@@ -1,2 +1,3 @@
 theme : black
 logo : assets/logo.png
+revealjs: 3.4.1

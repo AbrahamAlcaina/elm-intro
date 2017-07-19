@@ -3,6 +3,13 @@ Elm introduction
 Why Elm? 
 +++
 Describe state instant of transforming the DOM
+### todo think to move it to late in why elm
+Note:
+Becouse elm use a virtual dom. You only need to define how uptate your model in the update function
+---
+Performance
+![performance](assets/performance-vs-other-frameworks.png)
+source http://elm-lang.org/blog/blazing-fast-html-round-two
 +++
 Statically typed
 +++
